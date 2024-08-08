@@ -1,106 +1,153 @@
 {
   "basics": {
     "name": "Sena Doğan",
-    "label": "",
+    "label": "Junior Full Stack Designer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
+    "email": "senadogandev@proton.me",
     "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "url": "https://senadogan.dev",
+    "summary": "wohoooooo! I am a professional mobile application and Flutter developer for nearly 2 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2020.",
+    "theme": "blue",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "",
+      "city": "Istanbul",
+      "countryCode": "",
+      "region": "Turkey"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "sena-dogan-dev",
+        "url": "https://www.linkedin.com/in/sena-dogan-dev"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "devopen_io",
+        "url": "https://x.com/devopen_io"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "Sena-dogan",
+        "url": "https://github.com/Sena-dogan"
+      },
+      {
+        "network": "Dribbble",
+        "username": "CamaroBee",
+        "url": "https://dribbble.com/CamaroBee"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "DevOpen",
+      "position": "Co-founder, Designer & Flutter Developer",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Istanbul, Turkey",
+      "url": "https://devopen.io",
+      "startDate": "2024-04-01",
+      "endDate": null,
+      "summary": "Co-founder of DevOpen, a technology company focused on open source projects and content creation. Responsible for design (logo, branding, UI/UX) and development of mobile applications.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Co-founded and established DevOpen, driving the company's mission and vision.",
+        "Designed and developed two mobile applications, RescuPaws and LegalLens, using Flutter and Riverpod.",
+        "Created branding and UI/UX designs for various projects, ensuring cohesive and visually appealing interfaces."
+      ],
+      "responsibilities": [
+        "Led the design efforts, including logo creation, branding, and UI/UX design for DevOpen and multiple projects.",
+        "Developed mobile applications using Flutter, implementing state management with Riverpod.",
+        "Collaborated with the development team to incorporate AI features using OpenAI and custom LLM integrations."
+      ],
+      "achievements": [
+        "Successfully launched RescuPaws and LegalLens, contributing to a 20% increase in user engagement through innovative features and designs.",
+        "Enhanced branding and UI/UX consistency across all company projects, improving overall user experience."
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "Flutter",
+        "Riverpod",
+        "UI/UX Design",
+        "Branding",
+        "Figma",
+        "OpenAI",
+        "Custom LLM Integrations"
+      ]
+    },
+    {
+      "name": "Shipgrande",
+      "position": "Flutter Web Application Developer",
+      "location_type": "On site",
+      "location": "Istanbul, Turkey",
+      "url": "https://shipgrande.com",
+      "startDate": "2022-01-01",
+      "endDate": "2023-08-01",
+      "summary": "Developed and maintained a shipping rate calculation system for FedEx shipping using Flutter and Riverpod 2.0 framework for state management.",
+      "highlights": [
+        "Successfully launched the application, providing an efficient solution for FedEx shipping rate calculations."
+      ],
+      "responsibilities": [
+        "Developed the application using the latest version of Flutter.",
+        "Utilized Riverpod 2.0 for efficient state management.",
+        "Followed the MVVM architecture and employed REST APIs and Freezed classes for UI models.",
+        "Built a responsive design ensuring a seamless user experience across multiple platforms."
+      ],
+      "achievements": [
+        "Implemented responsive design techniques to enhance user experience on various devices."
+      ],
+      "skills": [
+        "Flutter",
+        "Riverpod 2.0",
+        "REST APIs",
+        "Freezed"
+      ]
+    },
+    {
+      "name": "Tinywall",
+      "position": "Flutter Developer",
+      "location_type": "Remote",
+      "url": "https://www.tinywall.app",
+      "startDate": "2022-12-01",
+      "endDate": "2023-06-20",
+      "summary": "Developing a mobile app designed to make car parking more convenient and memorable using Flutter.",
+      "highlights": [
+        "Launched the Tinywall app on the Google Play Store, providing an innovative car parking solution to users worldwide."
+      ],
+      "responsibilities": [
+        "Developed the Tinywall app using Flutter.",
+        "Followed the MVVM architecture incorporating Mobx for state management and GetIt for dependency injection.",
+        "Ensured a user-friendly experience by focusing on UI/UX design principles."
+      ],
+      "achievements": [
+        "Maintained a robust and organized codebase through the use of Mobx and GetIt."
+      ],
+      "skills": [
+        "Flutter",
+        "MVVM",
+        "Mobx",
+        "GetIt"
+      ]
+    },
+    {
+      "name": "GOHouse",
+      "position": "Flutter Developer",
+      "location_type": "Remote",
+      "startDate": "2022-11-01",
+      "endDate": "2023-01-01",
+      "summary": "Developed a mobile app for online house chores services using Flutter.",
+      "highlights": [
+        "Delivered the GOHouse app, providing a reliable platform for online house chores services."
+      ],
+      "responsibilities": [
+        "Led the development of the entire mobile app using Flutter.",
+        "Implemented Mobx for state management and GetIt for dependency injection.",
+        "Focused on creating a seamless and intuitive user experience."
+      ],
+      "achievements": [
+        "Ensured code quality and maintainability by utilizing Mobx and GetIt."
+      ],
+      "skills": [
+        "Flutter",
+        "Mobx",
+        "GetIt"
       ]
     }
   ],
@@ -119,145 +166,39 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Yıldız Technical University",
+      "url": "https://yildiz.edu.tr",
+      "area": "Physics",
+      "studyType": "Bachelor",
+      "startDate": "2021",
+      "endDate": "2025",
+      "courses": [
+        "PHY101 - Introduction to Physics",
+        "PHY102 - Quantum Mechanics"
+      ]
+    },
+    {
+      "institution": "École 42",
+      "url": "https://42istanbul.com.tr",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2021",
+      "endDate": "2023",
       "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
+        "C/C++ Programming",
+        "Data Structures",
+        "Algorithms"
       ]
     }
   ],
-  "certificates": [
-    {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
-    }
-  ],
+  "certificates": [],
   "skills": [
     {
       "name": "Figma",
       "level": "Expert",
       "keywords": [
         "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
+        "UI/UX"
       ]
     },
     {
@@ -265,30 +206,51 @@
       "level": "Intermediate",
       "keywords": [
         "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
+        "Collaboration"
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
+      "name": "Flutter",
+      "level": "Expert",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
+        "Mobile Development",
+        "Cross-platform",
+        "Dart"
       ]
     },
     {
-      "name": "React",
+      "name": "Dart",
       "level": "Intermediate",
       "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
+        "Programming Language",
+        "Flutter",
+        "Mobile Development"
+      ]
+    },
+    {
+      "name": "SwiftUI",
+      "level": "Intermediate",
+      "keywords": [
+        "iOS Development",
+        "UI Framework"
+      ]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": [
+        "Backend",
+        "Database",
+        "Authentication"
+      ]
+    },
+    {
+      "name": "C/C++",
+      "level": "Intermediate",
+      "keywords": [
+        "Programming Language",
+        "Algorithms",
+        "Data Structures"
       ]
     }
   ],
@@ -319,46 +281,72 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "DevOpen",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": "DevOpen is an open-source focused technology company working on various projects including mobile apps and backend systems.",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Developed and maintained Flutter applications, contributing to both UI/UX design and development.",
+        "Designed DevOpen's branding, logo, and overall UI/UX, enhancing the company's visual identity."
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://devopen.com"
     },
     {
-      "name": "Task Manager",
+      "name": "Pati Pati / RescuPaws",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "description": "Pati Pati is a Tinder-like pet adoption app that focuses on fast 2-tap pet adoption with a good UI.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Developed with Flutter, Firebase, Riverpod, and REST API",
+        "Designed the UI/UX using Figma",
+        "Implemented MVVM architecture with Riverpod for state management"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://web.patipati.app"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "GroG",
+      "isActive": true,
+      "description": "GroG is a drinks and cocktails app that makes drink selection easier.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Developed with Flutter, Riverpod, Firebase, Node.js, and REST API",
+        "Designed the UI/UX using Figma",
+        "Implemented MVVM architecture with Riverpod for state management"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/Sena-dogan/GroG",
+      "github": "https://github.com/Sena-dogan/GroG"
+    },
+    {
+      "name": "MotivaLux",
+      "isActive": true,
+      "description": "MotivaLux is a motivational app featuring daily quotes and meditation resources.",
+      "highlights": [
+        "Developed with Flutter, Riverpod, and Firebase",
+        "Designed the UI/UX using Figma",
+        "Implemented MVVM architecture with Riverpod for state management"
+      ],
+      "url": "https://github.com/Sena-dogan/MotivaLux",
+      "github": "https://github.com/Sena-dogan/MotivaLux"
+    },
+    {
+      "name": "Scoob",
+      "isActive": true,
+      "description": "A dog breeds app using Flutter and BloC state management.",
+      "highlights": [
+        "Utilized an open-source dog API",
+        "Developed to learn BloC state management in a Flutter app"
+      ],
+      "url": "https://github.com/Sena-dogan/scoob",
+      "github": "https://github.com/Sena-dogan/scoob"
+    },
+    {
+      "name": "LegalLens",
+      "isActive": true,
+      "description": "LegalLens is an app that helps users understand privacy policies and terms of use.",
+      "highlights": [
+        "Developed with Flutter, Firebase, REST API, Riverpod, and GPT-4",
+        "Designed the UI from scratch using Figma",
+        "Implemented MVVM architecture with Riverpod for state management"
+      ],
+      "url": "https://github.com/Sena-dogan/LegalLens",
+      "github": "https://github.com/Sena-dogan/LegalLens"
     }
   ]
 }

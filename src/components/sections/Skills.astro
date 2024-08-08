@@ -18,6 +18,12 @@ import Kotlin from "@/icons/kotlin.astro";
 import Flutter from "@/icons/flutter.astro";
 import Figma from "@/icons/Figma.astro";
 import Gitlab from "@/icons/Gitlab.astro";
+import Dart from "@/icons/dart.astro";
+import Firebase from "@/icons/Firebase.astro";
+import C from "@/icons/c.astro";
+import cpp from "@/icons/cpp.astro";
+import Xcode from "@/icons/xcode.astro";
+import Vscode from "@/icons/vscode.astro";
 
 const SKILLS_ICONS: Record<string, any> = {
 	HTML,
@@ -37,6 +43,12 @@ const SKILLS_ICONS: Record<string, any> = {
 	Flutter,
 	Figma,
 	Gitlab,
+	Dart,
+	Firebase,
+	C,
+	cpp,
+	Xcode,
+	Vscode,
 };
 ---
 
@@ -44,7 +56,7 @@ const SKILLS_ICONS: Record<string, any> = {
 	<ul class="[&>li>svg]:text-skin-hue inline-flex flex-wrap gap-6 [&>li>svg]:size-5 [&>li]:text-sm">
 		{
 			skills.map(({ name }) => {
-				const iconName = name === "Next.js" ? "Next" : name;
+				const iconName = name === "Next.js" ? "Next" : name === "C/C++" ? "cpp" : name === "Visual Studio Code" ? "Vscode" : name;
 				const Icon = SKILLS_ICONS[iconName];
 
 				return (
