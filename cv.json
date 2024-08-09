@@ -6,7 +6,7 @@
     "email": "senadgn@proton.me",
     "phone": "+1 555-555-5555",
     "url": "https://senadogan.dev",
-    "summary": "wohoooooo! I am a professional mobile application and Flutter developer for nearly 2 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2020.",
+    "summary": "wohoooooo! I am a mobile application and Flutter developer for 2 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2021.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -153,14 +153,13 @@
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "GDG Istanbul",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "url": "https://gdg.community.dev/gdg-istanbul/",
+      "startDate": "2022-01-01",
+      "endDate": null,
+      "summary": "I’m a designer and DevFest Organizer on Gdg Istanbul.",
       "highlights": [
-        "Awarded 'Volunteer of the Month'"
       ]
     }
   ],
