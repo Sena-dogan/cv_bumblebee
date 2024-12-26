@@ -6,7 +6,7 @@
     "email": "senadgn@proton.me",
     "phone": "+1 555-555-5555",
     "url": "https://senadogan.dev",
-    "summary": "wohoooooo! I am a mobile application and Flutter developer for 2 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2021.",
+    "summary": "I am a mobile application and Flutter developer for 2 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2021.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -170,7 +170,7 @@
       "area": "Physics",
       "studyType": "Bachelor",
       "startDate": "2021",
-      "endDate": "2025",
+      "endDate": "2026",
       "courses": [
         "PHY101 - Introduction to Physics",
         "PHY102 - Quantum Mechanics"
@@ -187,6 +187,19 @@
         "C/C++ Programming",
         "Data Structures",
         "Algorithms"
+      ]
+    },
+    {
+      "institution": "Anadolu University",
+      "url": "https://www.anadolu.edu.tr/",
+      "area": "Visual Communication Design",
+      "studyType": "Bachelor",
+      "startDate": "2024",
+      "endDate": "2028",
+      "courses": [
+        "Graphic Design",
+        "Typography",
+        "Color Theory"
       ]
     }
   ],
@@ -298,7 +311,7 @@
         "Designed the UI/UX using Figma",
         "Implemented MVVM architecture with Riverpod for state management"
       ],
-      "url": "https://web.patipati.app"
+      "url": "https://patipati.app"
     },
     {
       "name": "GroG",
