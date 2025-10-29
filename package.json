@@ -10,9 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.9.4",
-    "@astrojs/tailwind": "^5.1.4",
-    "astro": "^5.1.1",
+    "@astrojs/check": "^0.9.5",
+    "@astrojs/tailwind": "^6.0.2",
+    "astro": "^5.15.2",
     "astro-font-picker": "^0.2.1",
     "hotkeypad": "0.1.0",
     "prettier-plugin-tailwindcss": "^0.6.9",
@@ -25,8 +25,8 @@
   },
   "packageManager": "pnpm@9.15.1+sha512.1acb565e6193efbebda772702950469150cf12bcc764262e7587e71d19dc98a423dff9536e57ea44c49bdf790ff694e83c27be5faa23d67e0c033b583be4bfcf",
   "overrides": {
-      "astro-font-picker": {
-        "astro": "5.1.1"
-      }
+    "astro-font-picker": {
+      "astro": "5.1.1"
+    }
   }
 }
