@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Sena Doğan",
-    "label": "Junior Full Stack Designer",
+    "label": "Software Developer & Designer | YTU Physics",
     "image": "./me_avatar.jpg",
     "email": "senadgn@proton.me",
     "phone": "+1 555-555-5555",
     "url": "https://senadogan.dev",
-    "summary": "I am a mobile application and Flutter developer for 3 years of experience. My expertise includes creating cross-platform applications using Flutter and Dart. I’m a designer and DevFest Organizer on Gdg Istanbul. Also I’m doing Product Designs for my own projects. <br/><br/> I have a strong background in software development, specifically in mobile app design and development. I have been studying software, including the C and C++ programming languages at école 42 for 2 years. Currently, I am studying a bachelor's degree in physics at Yıldız Technical University ( YTU ) since 2021.",
+    "summary": "I am a results-oriented <strong>Software Developer</strong> and <strong>Product Designer</strong> with over 3 years of expertise in <strong>cross-platform mobile development</strong> using <strong>Flutter and Dart</strong>. My professional journey was significantly shaped by early roles at Shipgrande and Tinywall, where I collaborated closely with senior developers and experienced designers, marking a major step forward in both my technical and design capabilities. Today, as the Co-founder of DevOpen, I specialize in crafting intuitive UI/UX and leading projects from concept to launch. My background also includes three years of <strong>volunteer</strong> experience with <strong>GDG Istanbul</strong> as a Designer and DevFest Organizer.<br/><br/>My technical foundation is uniquely broad, starting with my software journey at <strong>École 42</strong>. I spent two years mastering <strong>C/C++</strong> through its highly challenging, project-based curriculum. It was during my second year at 42 that I began developing my expertise in Flutter. This rigorous engineering background is combined with a <strong>Bachelor's in Physics</strong> from <strong>Yıldız Technical University</strong>, allowing me to bridge <strong>complex analytical problem-solving</strong> with <strong>practical software development</strong>.<br/><br/>I am actively applying my <strong>C/C++</strong> skills in <strong>particle physics programming</strong> at YTU and exploring the intersection of code and science through <strong>quantum programming</strong>. I have earned the QBronze (beginner) certificate from <strong>QWorld</strong> and am currently awaiting the next workshops to pursue further certifications. I am a disciplined, team-oriented problem solver, driven to build impactful technology.",
     "theme": "blue",
     "location": {
       "address": "",
