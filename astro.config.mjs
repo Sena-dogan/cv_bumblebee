@@ -6,5 +6,6 @@ export default defineConfig({
   site: "https://sena-dogan.github.io",
   base: "/cv_bumblebee",
   trailingSlash: "always",
+  publicDir: "./public",
   integrations: [tailwind()],
 });
