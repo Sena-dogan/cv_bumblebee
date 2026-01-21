@@ -5,8 +5,8 @@
     "image": "./me_avatar.jpg",
     "email": "senadgn@proton.me",
     "phone": "+1 555-555-5555",
-    "url": "https://senadogan.dev",
-    "summary": "I am a results-oriented <strong>Software Developer</strong> and <strong>Product Designer</strong> with over 3 years of expertise in <strong>cross-platform mobile development</strong> using <strong>Flutter and Dart</strong>. My professional journey was significantly shaped by early roles at Shipgrande and Tinywall, where I collaborated closely with senior developers and experienced designers, marking a major step forward in both my technical and design capabilities. Today, as the Co-founder of DevOpen, I specialize in crafting intuitive UI/UX and leading projects from concept to launch. My background also includes three years of <strong>volunteer</strong> experience with <strong>GDG Istanbul</strong> as a Designer and DevFest Organizer.<br/><br/>My technical foundation is uniquely broad, starting with my software journey at <strong>École 42</strong>. I spent two years mastering <strong>C/C++</strong> through its highly challenging, project-based curriculum. It was during my second year at 42 that I began developing my expertise in Flutter. This rigorous engineering background is combined with a <strong>Bachelor's in Physics</strong> from <strong>Yıldız Technical University</strong>, allowing me to bridge <strong>complex analytical problem-solving</strong> with <strong>practical software development</strong>.<br/><br/>I am actively applying my <strong>C/C++</strong> skills in <strong>particle physics programming</strong> at YTU and exploring the intersection of code and science through <strong>quantum programming</strong>. I have earned the QBronze (beginner) certificate from <strong>QWorld</strong> and am currently awaiting the next workshops to pursue further certifications. I am a disciplined, team-oriented problem solver, driven to build impactful technology.",
+    "url": "https://sena-dogan.github.io/cv_bumblebee/",
+    "summary": "I am a results-oriented <strong>Software Developer</strong> and <strong>Product Designer</strong> with over 3 years of expertise in <strong>cross-platform mobile development</strong> using <strong>Flutter and Dart</strong>. My professional journey was significantly shaped by early roles at Shipgrande and Tinywall, where I collaborated closely with senior developers and experienced designers, marking a major step forward in both my technical and design capabilities. Today, as the Co-founder of DevOpen, I specialize in crafting intuitive UI/UX and leading projects from concept to launch. My background also includes three years of <strong>volunteer</strong> experience with <strong>GDG Istanbul</strong> as a Designer and DevFest Organizer.<br/><br/>My technical foundation is uniquely broad, starting with my software journey at <strong>École 42</strong>. I spent two years mastering <strong>C/C++</strong> through its highly challenging, project-based curriculum. It was during my second year at 42 that I began developing my expertise in Flutter. This rigorous engineering background is combined with a <strong>Bachelor's in Physics</strong> from <strong>Yıldız Technical University</strong>, allowing me to bridge <strong>complex analytical problem-solving</strong> with <strong>practical software development</strong>.<br/><br/>I am actively applying my <strong>C/C++</strong> skills within the <strong>Particle Physics Programming</strong> course at YTU Physics Department, primarily by developing <strong>RadCat</strong>, a desktop software for controlling nuclear physics devices where I implemented <strong>real-time data acquisition</strong> and <strong>signal processing</strong> using <strong>Qt 6</strong>. I am also exploring the intersection of code and science through <strong>quantum programming</strong>, having earned the QBronze (beginner) certificate from <strong>QWorld</strong>. I am a disciplined, team-oriented problem solver, driven to build impactful technology.",
     "theme": "blue",
     "location": {
       "address": "",
@@ -293,14 +293,14 @@
   ],
   "projects": [
     {
-      "name": "DevOpen",
+      "name": "RadCat",
       "isActive": true,
-      "description": "DevOpen is an open-source focused technology company working on various projects including mobile apps and backend systems.",
+      "description": "Developing a desktop control software for nuclear physics laboratory devices using C++ and Qt 6.",
       "highlights": [
-        "Developed and maintained Flutter applications, contributing to both UI/UX design and development.",
-        "Designed DevOpen's branding, logo, and overall UI/UX, enhancing the company's visual identity."
+        "Implemented real-time data acquisition, signal processing algorithms, and visualization features.",
+        "Designed a responsive UI with Signals & Slots mechanism for efficient device communication."
       ],
-      "url": "https://devopen.com"
+      "url": "https://github.com/Sena-dogan/RadCat"
     },
     {
       "name": "Pati Pati / RescuPaws",
@@ -311,7 +311,30 @@
         "Designed the UI/UX using Figma",
         "Implemented MVVM architecture with Riverpod for state management"
       ],
-      "url": "https://patipati.app"
+      "url": "https://github.com/Sena-dogan/RescuPaws"
+    },
+    {
+      "name": "LegalLens",
+      "isActive": true,
+      "description": "LegalLens is an app that helps users understand privacy policies and terms of use.",
+      "highlights": [
+        "Developed with Flutter, Firebase, REST API, Riverpod, and GPT-4",
+        "Designed the UI from scratch using Figma",
+        "Implemented MVVM architecture with Riverpod for state management"
+      ],
+      "url": "https://github.com/Sena-dogan/LegalLens",
+      "github": "https://github.com/Sena-dogan/LegalLens"
+    },
+    {
+      "name": "Scoob",
+      "isActive": true,
+      "description": "A dog breeds app using Flutter and BloC state management.",
+      "highlights": [
+        "Utilized an open-source dog API",
+        "Developed to learn BloC state management in a Flutter app"
+      ],
+      "url": "https://github.com/Sena-dogan/scoob",
+      "github": "https://github.com/Sena-dogan/scoob"
     },
     {
       "name": "GroG",
@@ -336,29 +359,6 @@
       ],
       "url": "https://github.com/Sena-dogan/MotivaLux",
       "github": "https://github.com/Sena-dogan/MotivaLux"
-    },
-    {
-      "name": "Scoob",
-      "isActive": true,
-      "description": "A dog breeds app using Flutter and BloC state management.",
-      "highlights": [
-        "Utilized an open-source dog API",
-        "Developed to learn BloC state management in a Flutter app"
-      ],
-      "url": "https://github.com/Sena-dogan/scoob",
-      "github": "https://github.com/Sena-dogan/scoob"
-    },
-    {
-      "name": "LegalLens",
-      "isActive": true,
-      "description": "LegalLens is an app that helps users understand privacy policies and terms of use.",
-      "highlights": [
-        "Developed with Flutter, Firebase, REST API, Riverpod, and GPT-4",
-        "Designed the UI from scratch using Figma",
-        "Implemented MVVM architecture with Riverpod for state management"
-      ],
-      "url": "https://github.com/Sena-dogan/LegalLens",
-      "github": "https://github.com/Sena-dogan/LegalLens"
     }
   ]
 }
