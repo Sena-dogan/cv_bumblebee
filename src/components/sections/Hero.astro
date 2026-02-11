@@ -9,6 +9,7 @@ import GitHub from "@/icons/GitHub.astro";
 import WorldMap from "@/icons/WorldMap.astro";
 import type { SocialIcon } from "@/types";
 import Dribbble from "@/icons/dribbble.astro";
+import PortfolioButton from "@/components/PortfolioButton.astro";
 
 const { name, label, image, location, profiles, phone, email } = basics;
 const { city, region } = location;
@@ -30,6 +31,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
 	<div class="flex flex-col-reverse gap-8">
 		<div class="info">
 			<h1>{name}</h1>
+			<PortfolioButton />
 			<h2>{label}</h2>
 			<div class="flex items-center gap-2 pt-2 text-sm text-skin-muted">
 				<WorldMap />

@@ -1,0 +1,54 @@
+<a 
+  href="https://sena-dogan.github.io/Dual-Mode-Portfolio/" 
+  target="_blank" 
+  class="group relative inline-flex items-center justify-center gap-2 overflow-hidden rounded-md border-2 border-skin-hue/50 bg-skin-button-accent/5 px-4 py-2 font-medium text-skin-hue transition-all duration-300 hover:bg-skin-button-accent hover:text-skin-inverted focus:outline-none focus:ring-2 focus:ring-skin-hue focus:ring-offset-2 animate-border-pulse my-4"
+>
+  <span class="absolute inset-0 -z-10 h-full w-full bg-skin-hue/5 opacity-0 transition-opacity duration-300 group-hover:opacity-100"></span>
+  
+  <span class="relative flex h-3 w-3">
+    <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+    <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
+  </span>
+
+  <span class="relative">View My Portfolio</span>
+</a>
+
+<style>
+  @keyframes border-pulse {
+    0%, 100% {
+      border-color: rgba(var(--color-text-base), 0.3);
+      box-shadow: 0 0 0 0 rgba(var(--color-text-base), 0);
+    }
+    50% {
+      border-color: rgba(var(--color-text-base), 0.8);
+      box-shadow: 0 0 12px rgba(var(--color-text-base), 0.2);
+    }
+  }
+
+  @keyframes border-pulse-light {
+    0%, 100% {
+      border-color: rgba(var(--color-fill), 0.6); /* Use skin-fill (usually dark in light mode logic?) No, skin-fill is bg. Need text-base or specialized color on light mode. */
+      /* Actually, let's use a specific vibrant color for light mode if possible, or just stronger opacity of base text which is dark */
+      border-color: rgba(0, 0, 0, 0.4); 
+      box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    }
+    50% {
+      border-color: rgba(0, 0, 0, 1);
+      box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+    }
+  }
+
+  .animate-border-pulse {
+    animation: border-pulse 3s ease-in-out infinite;
+  }
+
+  /* Specific override for light mode if the theme is NOT dark */
+  :global(html:not(.dark)) .animate-border-pulse {
+     animation-name: border-pulse-light;
+     /* Also maybe bump the border width visually or just opacity? */
+  }
+</style>
+
+<style>
+  /* Optional: Enhance the attract loop if just ping isn't enough, but animate-ping is usually quite good for 'attention' */
+</style>
